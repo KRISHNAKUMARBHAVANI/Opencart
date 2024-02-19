@@ -1,0 +1,63 @@
+13:51:23.300 [main] INFO  testCases.Accountregistrationtest - logs strted
+13:51:23.303 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+13:51:23.385 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+13:51:23.905 [main] INFO  testCases.Accountregistrationtest - click on my register
+13:51:25.914 [main] INFO  testCases.Accountregistrationtest - strted providing data
+13:56:30.357 [main] INFO  testCases.Accountregistrationtest - logs strted
+13:56:30.361 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+13:56:30.458 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+13:56:30.834 [main] INFO  testCases.Accountregistrationtest - click on my register
+13:56:32.840 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:04:37.136 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:04:37.138 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:04:37.243 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:04:37.709 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:04:39.720 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:05:46.676 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:05:46.679 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:05:46.770 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:05:47.185 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:05:49.193 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:10:22.165 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:10:22.166 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:10:22.245 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:10:22.645 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:10:24.653 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:11:24.236 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:11:24.240 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:11:24.312 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:11:24.695 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:11:26.710 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:11:30.140 [main] ERROR testCases.Accountregistrationtest - failed test case
+14:11:30.141 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:11:30.141 [main] INFO  testCases.Accountregistrationtest - logs completed
+14:13:13.923 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:13:13.925 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:13:14.013 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:13:14.439 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:13:16.443 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:13:19.922 [main] ERROR testCases.Accountregistrationtest - failed test case
+14:13:19.922 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:13:19.922 [main] INFO  testCases.Accountregistrationtest - logs completed
+14:27:04.837 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:27:04.839 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:27:04.920 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:27:05.312 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:27:07.325 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:27:10.738 [main] ERROR testCases.Accountregistrationtest - failed test case
+14:27:10.738 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:27:10.738 [main] INFO  testCases.Accountregistrationtest - logs completed
+14:28:24.275 [main] INFO  testCases.Accountregistrationtest - logs strted
+14:28:24.278 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:28:24.368 [main] INFO  testCases.Accountregistrationtest - clicked on my account
+14:28:24.777 [main] INFO  testCases.Accountregistrationtest - click on my register
+14:28:26.779 [main] INFO  testCases.Accountregistrationtest - strted providing data
+14:28:30.303 [main] ERROR testCases.Accountregistrationtest - failed test case
+14:28:30.303 [main] DEBUG testCases.Accountregistrationtest - debuglogs
+14:28:30.303 [main] INFO  testCases.Accountregistrationtest - logs completed
+14:33:13.643 [TestNG-tests-1] INFO  testCases.Accountregistrationtest - logs strted
+14:33:13.647 [TestNG-tests-1] DEBUG testCases.Accountregistrationtest - debuglogs
+14:33:13.783 [TestNG-tests-2] INFO  testCases.Accountregistrationtest - logs strted
+14:33:13.783 [TestNG-tests-2] DEBUG testCases.Accountregistrationtest - debuglogs
+14:33:13.862 [TestNG-tests-1] INFO  testCases.Accountregistrationtest - clicked on my account
+14:33:13.924 [TestNG-tests-2] INFO  testCases.Accountregistrationtest - clicked on my account

@@ -1,0 +1,24 @@
+13:56:40.393 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+13:56:40.402 [main] INFO  testCases.LoginTestcase - started log in test
+13:57:24.999 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+13:57:25.002 [main] INFO  testCases.LoginTestcase - started log in test
+13:57:49.867 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+13:57:49.871 [main] INFO  testCases.LoginTestcase - started log in test
+13:58:25.786 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+13:58:25.789 [main] INFO  testCases.LoginTestcase - started log in test
+13:59:19.469 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+13:59:19.473 [main] INFO  testCases.LoginTestcase - started log in test
+14:07:19.692 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+14:07:19.694 [main] INFO  testCases.LoginTestcase - started log in test
+16:28:12.136 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+16:28:12.139 [main] INFO  testCases.LoginTestcase - started log in test
+16:40:19.064 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+16:40:19.066 [main] INFO  testCases.LoginTestcase - started log in test
+17:00:49.821 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+17:00:49.823 [main] INFO  testCases.LoginTestcase - started log in test
+17:02:45.617 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+17:02:45.619 [main] INFO  testCases.LoginTestcase - started log in test
+17:04:30.979 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+17:04:30.982 [main] INFO  testCases.LoginTestcase - started log in test
+17:08:52.912 [main] DEBUG testCases.LoginTestcase -  capturing debug logs
+17:08:52.920 [main] INFO  testCases.LoginTestcase - started log in test
